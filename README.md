@@ -1,6 +1,6 @@
 # Hi 👋, I’m Aradhana Singh (@Aradhanasingh00)
 
-> 🚀 Cyber Security Student | Exploring bugs & building tools
+> 🚀 Cyber Security Student 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aradhanasingh00&color=blue)
 
@@ -14,15 +14,11 @@
 
 ---
 
-## 🎓 Education & Training
-- **B.Tech in Cyber Security** — Poornima College of Engineering & Technology (2022–2026)  
-- **Training in Cyber Security & Ethical Hacking** — *Technoglobe Institute* (Feb 2025 – Jun 2025)
-
----
-
 ## 💼 Experience
 - **Internship** — Cyber Police Headquarters, Jaipur, India (1 Jul 2025 – 30 Aug 2025)  
-  - Worked on practical incident analysis, documentation, and support for local investigations.
+  - Supported incident analysis and documentation; assisted in local investigations and evidence collection workflows.
+  - **Training in Cyber Security & Ethical Hacking** — *Technoglobe Institute* (Feb 2025 – Jun 2025)
+
 
 ---
 
@@ -37,29 +33,31 @@
 - 🔍 [web-vuln-scanner](https://github.com/Aradhanasingh00/web-vuln-scanner) — Automated scanning for common web vulnerabilities.  
 - 🛡️ [local-vuln-checker](https://github.com/Aradhanasingh00/local-vuln-checker) — CLI utility for local host checks and configuration validation.  
 - 🔗 [broken-link-misconfig-checker](https://github.com/Aradhanasingh00/broken-link-misconfig-checker) — Finds broken links and common misconfigurations on websites.  
-- 🤖 [AI-Phishing-Detection-Platform](https://github.com/Aradhanasingh00/AI-Phishing-Detection-Platform) — Flask web app using machine learning to classify emails/URLs as phishing or legitimate.  
-  - **Tech stack:** Python, Bash,Flask,HTML/CSS for UI.  
-  - **Features:** data preprocessing, model training, inference API, basic frontend for demo.
+- 🤖 [AI-Phishing-Detection-Platform](https://github.com/Aradhanasingh00/AI-Phishing-Detection-Platform) — A Flask web app using machine learning to classify emails/URLs as phishing or legitimate.  
+  - **Tech stack:** Python,Bash,Flask,HTML/CSS for UI.  
+  - **Features:** data preprocessing, model training, inference API, basic frontend demo.
 
 ---
 
-## 🏅 Certifications & Training 
+## 🏅 Certifications & Training (selected)
+- **(ISC)² — Certified in Cybersecurity (CC)** 
 - Diploma in **Cyber Security & Ethical Hacking**  
-- TryHackMe modules completed: **Linux**, **Security Awareness**, **Nmap**, **Wireshark**, **ARP spoofing**
+- TryHackMe modules completed: **Linux**, **Security Awareness**, **Nmap**, **Wireshark**, **ARP spoofing**  
 
 ---
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/aradhana-singh-79b0b6258/  
+- TryHackMe: https://tryhackme.com/p/AradhanaSingh24  
 - Email: singharadhana2004@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aradhana-singh-79b0b6258/)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-orange?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/AradhanaSingh24)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singharadhana2004@gmail.com)
 
 ---
 
-## ⚡ .....
+## ⚡ Fun facts
 - 📍 Located in Jaipur, India  
 - 🚀 Open to collaboration on web-security and ML-for-security projects
-
 
