@@ -15,8 +15,7 @@
 ---
 
 ## 💼 Experience
-  **Internship** — Cyber Police Headquarters, Jaipur, India (1 Jul 2025 – 30 Aug 2025)  
-     - Supported incident analysis and documentation; assisted in local investigations and evidence collection workflows.
+  **Internship** — Cyber Police Headquarters, Jaipur, India (1 Jul 2025 – 30 Aug 2025)
   **Training in Cyber Security & Ethical Hacking** — *Technoglobe Institute* (Feb 2025 – Jun 2025)
 
 
