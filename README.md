@@ -43,7 +43,7 @@
 
 ---
 
-## 🏅 Certifications & Training (selected)
+## 🏅 Certifications & Training 
 - Diploma in **Cyber Security & Ethical Hacking**  
 - TryHackMe modules completed: **Linux**, **Security Awareness**, **Nmap**, **Wireshark**, **ARP spoofing**
 
