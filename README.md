@@ -15,7 +15,7 @@
 ---
 
 ## 💼 Experience
-  **Internship** — Cyber Police Headquarters, Jaipur, India (1 Jul 2025 – 30 Aug 2025)
+  **Internship** — Cyber Police Headquarters, Jaipur, India (1 Jul 2025 – 30 Aug 2025),
   **Training in Cyber Security & Ethical Hacking** — *Technoglobe Institute* (Feb 2025 – Jun 2025)
 
   
@@ -39,7 +39,7 @@
 
 ---
 
-## 🏅 Certifications & Training (selected)
+## 🏅 Certifications & Training
 - **(ISC)² — Certified in Cybersecurity (CC)** 
 - Diploma in **Cyber Security & Ethical Hacking**  
 - TryHackMe modules completed: **Linux**, **Security Awareness**, **Nmap**, **Wireshark**, **ARP spoofing**  
