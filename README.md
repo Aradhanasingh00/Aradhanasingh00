@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I’m Aradhana Singh (@Aradhanasingh00)
 
-<!--
-**Aradhanasingh00/Aradhanasingh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚀 Cyber Security Student | Exploring bugs & building tools
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Aradhanasingh00&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍🎓 About Me
+- 🌱 Currently pursuing **B.Tech in Cyber Security (2022–2026)** at *Poornima College of Engineering & Technology, Jaipur*  
+- 🔭 Passionate about **Web Security, Networking, and Linux**  
+- 💻 Building practical security tools (scanners, checkers) and ML-based defenders  
+- ✨ Always eager to learn, collaborate, and contribute to open source
+
+---
+
+## 🎓 Education & Training
+- **B.Tech in Cyber Security** — Poornima College of Engineering & Technology (2022–2026)  
+- **Training in Cyber Security & Ethical Hacking** — *Technoglobe Institute* (Feb 2025 – Jun 2025)
+
+---
+
+## 💼 Experience
+- **Internship** — Cyber Police Headquarters, Jaipur, India (1 Jul 2025 – 30 Aug 2025)  
+  - Worked on practical incident analysis, documentation, and support for local investigations.
+
+---
+
+## 🛠️ Skills
+- **Languages & Scripting:** Python, Bash, HTML  
+- **Security / Tools:** Web application security, Networking, Linux, Nmap, Wireshark, Burp Suite, Metasploit (basic)  
+- **Other:** Git, basic machine learning for security use-cases
+
+---
+
+## 📂 Projects
+- 🔍 [web-vuln-scanner](https://github.com/Aradhanasingh00/web-vuln-scanner) — Automated scanning for common web vulnerabilities.  
+- 🛡️ [local-vuln-checker](https://github.com/Aradhanasingh00/local-vuln-checker) — CLI utility for local host checks and configuration validation.  
+- 🔗 [broken-link-misconfig-checker](https://github.com/Aradhanasingh00/broken-link-misconfig-checker) — Finds broken links and common misconfigurations on websites.  
+- 🤖 [AI-Phishing-Detection-Platform](https://github.com/Aradhanasingh00/AI-Phishing-Detection-Platform) — Flask web app using machine learning to classify emails/URLs as phishing or legitimate.  
+  - **Tech stack:** Python, Bash,Flask,HTML/CSS for UI.  
+  - **Features:** data preprocessing, model training, inference API, basic frontend for demo.
+
+---
+
+## 🏅 Certifications & Training (selected)
+- Diploma in **Cyber Security & Ethical Hacking**  
+- TryHackMe modules completed: **Linux**, **Security Awareness**, **Nmap**, **Wireshark**, **ARP spoofing**
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/aradhana-singh-79b0b6258/  
+- Email: singharadhana2004@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aradhana-singh-79b0b6258/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singharadhana2004@gmail.com)
+
+---
+
+## ⚡ .....
+- 📍 Located in Jaipur, India  
+- 🚀 Open to collaboration on web-security and ML-for-security projects
+
+
