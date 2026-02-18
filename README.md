@@ -33,9 +33,10 @@
 - 🔍 [web-vuln-scanner](https://github.com/Aradhanasingh00/web-vuln-scanner) — Automated scanning for common web vulnerabilities.  
 - 🛡️ [local-vuln-checker](https://github.com/Aradhanasingh00/local-vuln-checker) — CLI utility for local host checks and configuration validation.  
 - 🔗 [broken-link-misconfig-checker](https://github.com/Aradhanasingh00/broken-link-misconfig-checker) — Finds broken links and common misconfigurations on websites.  
-- 🤖 [AI-Phishing-Detection-Platform](https://github.com/Aradhanasingh00/AI-Phishing-Detection-Platform) — A Flask web app using machine learning to classify emails/URLs as phishing or legitimate.  
+- 🤖 [AI-Phishing-Detection-Platform](https://github.com/Aradhanasingh00/AI-Phishing-Detection-Platform) — A Flask web app using machine learning to classify emails/URLs as phishing or legitimate. 
   - **Tech stack:** Python,Bash,Flask,HTML/CSS for UI.  
   - **Features:** data preprocessing, model training, inference API, basic frontend demo.
+ -   [Phantom Intel](https://github.com/Aradhanasingh00/phantom-intel.git)- Built a case-based OSINT web application to analyze multiple mobile numbers ethically.
 
 ---
 
